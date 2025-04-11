@@ -1,4 +1,4 @@
-# Account-Book (AB)
+# Account-Book
 
 ### 관심 있는 주제를 공부하면서 만들어 본 가계부 서비스
 
